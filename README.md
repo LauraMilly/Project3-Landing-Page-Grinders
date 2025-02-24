@@ -29,4 +29,4 @@ Este é um projeto de uma **hamburgueria digital**, desenvolvido como atividade 
 
 1. **Clone este repositório**  
    ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+   [git clone(https://github.com/LauraMilly/Projeto3-Landing-Page-Grinders)
