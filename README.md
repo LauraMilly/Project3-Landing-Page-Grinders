@@ -1,32 +1,39 @@
-# 🍔 Hamburgueria - Projeto EBAC
+# 🍔 Hamburger Restaurant - EBAC Project
 
-Este é um projeto de uma **hamburgueria digital**, desenvolvido como atividade do curso da **EBAC**. O site apresenta um layout moderno e responsivo, criado utilizando **HTML, CSS, JavaScript e Bootstrap**.
+This is a **digital hamburger restaurant** project, developed as an assignment for the **EBAC** course.  
+The website features a **modern and responsive layout**, created using **HTML, CSS, JavaScript, and Bootstrap**.
 
-## ![Grinders-](https://github.com/user-attachments/assets/8745c310-865c-456e-98bd-808115ee7d09)
+## 📸 ![Grinders-](https://github.com/user-attachments/assets/6aaa1ee4-1fc9-4f09-bb19-112c0de2dad4)
 
----
-
-## 🚀 Tecnologias Utilizadas
-
-- **HTML5** → Estruturação do conteúdo
-- **CSS3** → Estilização e responsividade
-- **JavaScript** → Interatividade (como modal e animações)
-- **Bootstrap** → Estilização rápida e responsiva
 
 ---
 
-## 📌 Funcionalidades
+## 🚀 Technologies Used
 
-✅ **Seção Quem Somos** - Apresentação da hamburgueria  
-✅ **Seção Produtos** - Cardápio de hambúrgueres  
-✅ **Botão de Contato com Modal** - Ao clicar, abre um formulário de contato  
-✅ **Footer Profissional** - Com informações de contato e redes sociais  
-✅ **Design Responsivo** - Adaptado para telas de diferentes tamanhos  
+- **HTML5** → Content structuring  
+- **CSS3** → Styling and responsiveness  
+- **JavaScript** → Interactivity (such as modal and animations)  
+- **Bootstrap** → Quick and responsive styling  
 
 ---
 
-## 📂 Como Rodar o Projeto
+## 📌 Features
 
-1. **Clone este repositório**  
+✅ **About Us Section** - Introduction to the restaurant  
+✅ **Products Section** - Menu with available burgers  
+✅ **Contact Button with Modal** - Clicking opens a contact form  
+✅ **Professional Footer** - Includes contact info and social media links  
+✅ **Responsive Design** - Adapts to different screen sizes  
+
+---
+
+## 📂 How to Run the Project
+
+1. **Clone this repository**  
    ```bash
-   [git clone(https://github.com/LauraMilly/Projeto3-Landing-Page-Grinders)
+   git clone (https://github.com/LauraMilly/Project3-Landing-Page-Grinders)
+
+ ## 📬 Contact
+Developed by [Laura Souza].
+📧 Email: laauramirellydesouza@gmail.com
+💼 LinkedIn: https://www.linkedin.com/in/laura-souza-4a729b252/
