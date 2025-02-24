@@ -42,12 +42,6 @@ Projeto3-Landing-Page-Grinders-main/ <br>
 
 3️⃣ Open the index.html file in your browser
 
-<h3>🎯 Future Improvements</h3>
-<h4>Here are some suggestions for future improvements:</h4>  
-1. Add JavaScript interactivity for dynamic effects.<br>
-2. Implement a responsive menu for mobile devices.<br>
-3. Develop an online ordering system.  
-
 <h3>🤝 Contribution</h3>
 <h4>If you'd like to contribute to this project, follow these steps:</h4>
 
